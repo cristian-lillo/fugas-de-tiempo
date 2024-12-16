@@ -1,0 +1,16 @@
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+.ENV/
+
+# IDE/Editors
+.idea/
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
